@@ -1,0 +1,21 @@
+body {
+    background-image: linear-gradient(to right, #7f23cf, #6a82fb);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    color: wheat
+}
+
+text {
+    color: wheat
+}
+
+a img {
+    width: 20px;
+    height: 20px;
+}
